@@ -88,4 +88,4 @@ SmartRecords is [MIT Licensed](https://github.com/andrerpena/SmartRecords/blob/m
 About the author
 ----------------
 
-My name is André Pena. 
+Hello everyone, my name is André Pena. I'm a .NET developer from Brazil. I hope you will enjoy SmartRecords as much as I enjoy developing it. If you have any problems, you can post a [GitHub issue](https://github.com/andrerpena/SmartRecords/issues). You can reach me out at andrerpena@gmail.com or [andrerpena.net](http://www.andrerpena.net) (Tumblr).
