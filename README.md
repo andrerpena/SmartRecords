@@ -14,7 +14,7 @@ First thing to do is to define a frame for your report, that is, determine what 
 
 You create a report by instantiating the report `Report` class. Inside the report, you create data contexts to which components can be added. There are 3 components: `Card`, `Grid` and `Title` which are self explanatory.
 
-After the report is finished, just call `SaveToFile` to export a PDF file.
+After the report is finished, just call `SaveToFile` to export the resulting PDF file.
 
 ```csharp
 static void Main(string[] args)
