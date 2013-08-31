@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRecords.Sample", "SmartRecords.Sample\SmartRecords.Sample.csproj", "{AD8FE530-F583-40C4-8CD5-F59A81F5B6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartRecords", "SmartRecords\SmartRecords.csproj", "{43F84061-CA70-43F3-A0DE-C0052026EFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8FE530-F583-40C4-8CD5-F59A81F5B6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8FE530-F583-40C4-8CD5-F59A81F5B6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8FE530-F583-40C4-8CD5-F59A81F5B6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8FE530-F583-40C4-8CD5-F59A81F5B6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F84061-CA70-43F3-A0DE-C0052026EFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F84061-CA70-43F3-A0DE-C0052026EFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F84061-CA70-43F3-A0DE-C0052026EFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F84061-CA70-43F3-A0DE-C0052026EFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
