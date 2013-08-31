@@ -89,3 +89,9 @@ About the author
 ----------------
 
 Hello everyone, my name is André Pena. I'm a .NET developer from Brazil. I hope you will enjoy SmartRecords as much as I enjoy developing it. If you have any problems, you can post a [GitHub issue](https://github.com/andrerpena/SmartRecords/issues). You can reach me out at andrerpena@gmail.com or [andrerpena.net](http://www.andrerpena.net) (Tumblr).
+
+Third party
+-----------
+
+SmartRecord is built on top of [iTextSharp](http://sourceforge.net/projects/itextsharp/).
+In the sample application, objects are generated using [AutoPoco](http://http://autopoco.codeplex.com/)
