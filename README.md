@@ -1,4 +1,4 @@
 SmartRecords
 ============
 
-A simple .NET report generation library
+SmartRecords is a simple .NET report generation library.
