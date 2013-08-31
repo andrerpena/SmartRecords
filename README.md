@@ -79,3 +79,13 @@ static void Main(string[] args)
 	Process.Start(fileName);
 }
 ```
+
+License
+-------
+
+SmartRecords is [MIT Licensed](https://github.com/andrerpena/SmartRecords/blob/master/LICENSE).
+
+About the author
+----------------
+
+My name is André Pena. 
