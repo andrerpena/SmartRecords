@@ -6,7 +6,7 @@ SmartRecords is a ridiculously simple library for generating PDF reports out of 
 
 SmartRecords is ideal for exporting data for storage or printing. It's good because it's simple, strongly-typed, designer-free and very fast.
 
-The package you download comes with a sample application that explores all the currently available functionalities (not many). All you have to do is to download it and run the `SmartRecords.Sample`. The generated PDF will pop up. All dependencies are included and no setup is required.
+The package you download comes with a sample application that explores all the currently available functionalities (not many). All you have to do is to download it and run the `SmartRecords.Sample`. The [generated PDF]([resulting PDF file](https://github.com/andrerpena/SmartRecords/raw/master/SmartRecords.Sample/bin/Debug/document.pdf)) will pop up. All dependencies are included and no setup is required.
 
 Usage
 -----
