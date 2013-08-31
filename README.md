@@ -70,9 +70,12 @@ static void Main(string[] args)
 			appointmentCard.AddColumn(m => m.Date);
 		}
 	}
-
+	
+	// exports the resulting document
 	const string fileName = "document.pdf";
 	report.SaveToFile(fileName);
+	
+	// opens the file
 	Process.Start(fileName);
 }
 ```
