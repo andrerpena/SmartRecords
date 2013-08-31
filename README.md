@@ -1,7 +1,8 @@
 SmartRecords
 ============
 
-SmartRecords is a ridiculously simple library for generating PDF reports out of .NET object models. It's built on top of iTextSharp, which is a problem because it's not free for commercial use (your project must be AGPL compatible). Depending on the SmartRecords acceptance, I may try to implement a renderer using some commercial-use compatible PDF library. Let's see what happens.
+
+SmartRecords is a ridiculously simple library for generating PDF reports out of .NET object models. It's built on top of [iTextSharp](http://sourceforge.net/projects/itextsharp/), which is a problem because it's not free for commercial use (your project must be AGPL compatible). Depending on the SmartRecords acceptance, I may try to implement a renderer using some commercial-use compatible PDF library. Let's see what happens.
 
 SmartRecords is ideal for exporting data for storage or printing. It's good because it's simple, strongly-typed, designer-free and very fast.
 
@@ -70,7 +71,8 @@ static void Main(string[] args)
 		}
 	}
 
-	report.SaveToFile("document.pdf");
-	Process.Start("document.pdf");
+	const string fileName = "document.pdf";
+	report.SaveToFile(fileName);
+	Process.Start(fileName);
 }
 ```
