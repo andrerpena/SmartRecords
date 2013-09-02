@@ -80,7 +80,7 @@ static void Main(string[] args)
 }
 ```
 
-The above code generates [resulting PDF file](https://github.com/andrerpena/SmartRecords/raw/master/SmartRecords.Sample/bin/Debug/document.pdf).
+The above code generates [this PDF file](https://github.com/andrerpena/SmartRecords/raw/master/SmartRecords.Sample/bin/Debug/document.pdf).
 
 License
 -------
