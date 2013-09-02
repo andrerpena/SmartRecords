@@ -11,7 +11,7 @@ The package you download comes with a sample application that explores all the c
 Usage
 -----
 
-First thing to do is to define a frame for your report, that is, determine what will be displayed in the header and the footer of your report pages. SmartRecords comes with a simple implementation called `ReportFrame`, but you can, of course, roll your own.
+First thing to do is to define a frame for your report, that is, to determine what will be displayed in the header and the footer of your report pages. SmartRecords comes with a simple implementation called `ReportFrame`, but you can, of course, roll your own.
 
 You create a report by instantiating the report `Report` class. Inside the report, you create data contexts to which components can be added. There are 3 components: `Card`, `Grid` and `Title` which are self explanatory.
 
